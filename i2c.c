@@ -1,5 +1,4 @@
 #include "i2c.h"
-#include "stdio.h"
 #include <libpic30.h>
 #include <stdbool.h>
 #include <xc.h>
